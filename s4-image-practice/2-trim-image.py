@@ -1,5 +1,5 @@
 from simpleimage import SimpleImage
-from images import *
+from images import beach
 
 def main(pic):
     image = SimpleImage(pic)

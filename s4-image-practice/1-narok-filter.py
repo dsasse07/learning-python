@@ -1,5 +1,5 @@
 from simpleimage import SimpleImage
-from images import *
+from images import beach
 
 BRIGHT_PIXEL_THRESHOLD = 153
 

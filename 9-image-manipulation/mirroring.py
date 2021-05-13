@@ -1,5 +1,5 @@
 from simpleimage import SimpleImage
-from images import *
+from images import stop
 
 def mirror(filename):
   image = SimpleImage(filename)
